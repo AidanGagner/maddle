@@ -1,0 +1,5 @@
+You can write your own stories just like this one!
+Just put 'em in txt files and save them to the maddles_stories folder.
+Whenever you want the player to input their own words, put a prompt in square brackets. You can make them say silly things like "[adjective] [noun]" or "[verb ending in -ing] [adverb]."
+Your imagination knows no bounds! Make up [adjective] tales about [adjective] [plural animals] [verb ending in -ing] all over [city]! Amaze your friends and [plural family member] with a [number]-word epic about [celebrity]'s [adjective] quest for the magical [noun]!
+You get it by now, right? 
